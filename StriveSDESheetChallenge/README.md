@@ -52,7 +52,7 @@
 <br>
 </details>
 
-<!-- ## Day-3: (Arrays)
+## Day-3: (Arrays)
 
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
@@ -73,7 +73,7 @@
 <br>
 </details>
 
-## Day-4: (Arrays)
+<!-- ## Day-4: (Arrays)
 
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-green?style=for-the-badge"></summary>
